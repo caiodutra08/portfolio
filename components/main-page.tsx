@@ -43,7 +43,7 @@ export default function MainPage() {
                 </h1>
                 <div className="flex flex-row gap-2">
                     <a
-                        href="https://t.me/caioonsol"
+                        href="https://t.me/caiooncrypto"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="relative inline-flex h-12 overflow-hidden rounded-full p-[1px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50"
@@ -54,7 +54,7 @@ export default function MainPage() {
                         </span>
                     </a>
                     <a
-                        href="https://x.com/caioonsol"
+                        href="https://x.com/caiooncrypto"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="relative inline-flex h-12 overflow-hidden rounded-full p-[1px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50"
